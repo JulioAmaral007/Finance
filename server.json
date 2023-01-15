@@ -15,7 +15,7 @@
       "category": "Alimentação",
       "price": 140,
       "createdAt": "2023-01-15T12:40:11.201Z"
-    },    
+    },
     {
       "id": 3,
       "description": "Pizza",
@@ -23,6 +23,38 @@
       "category": "Alimentação",
       "price": 10000,
       "createdAt": "2023-01-15T13:40:11.201Z"
+    },
+    {
+      "id": 4,
+      "description": "Curso Polado",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 100,
+      "createdAt": "2023-05-15T23:40:11.201Z"
+    },
+    {
+      "id": 5,
+      "description": "Marketing",
+      "type": "income",
+      "category": "Venda",
+      "price": 2574,
+      "createdAt": "2023-01-11T18:40:11.201Z"
+    },
+    {
+      "description": "Gasolina",
+      "price": 157,
+      "category": "Automóvel",
+      "type": "outcome",
+      "createdAt": "2023-01-15T18:25:06.367Z",
+      "id": 6
+    },
+    {
+      "description": "Iogurte",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-15T18:39:52.167Z",
+      "id": 7
     }
   ]
 }
